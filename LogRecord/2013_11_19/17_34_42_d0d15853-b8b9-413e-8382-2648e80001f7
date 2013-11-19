@@ -1,0 +1,54 @@
+{
+  "RecId": "2013_11_19\\17_34_42_d0d15853-b8b9-413e-8382-2648e80001f7",
+  "FileId": "28e25665-047d-48de-bd28-c503749a0204",
+  "CreateDate": "2013-11-19T13:34:42.461076Z",
+  "Author": {
+    "Role": 0,
+    "CertificateRawData": "MIIChzCCAfCgAwIBAgIQJ+Ty2WYP8L9PtVZh/RyAzjANBgkqhkiG9w0BAQUFADCBgTERMA8GA1UEBxMIMTIxMjEyMTIxJTAjBgkqhkiG9w0BCQEWFmEuZ3JhdGlqQG5ldHZveGxhYi5jb20xDDAKBgNVBAoTA05WWDE3MDUGA1UEAx4uBBMEQAQwBEIEOAQ5ACAEHQQ4BDoEPgQ7BDAENQQyBDgERwAgBBAEPQRCBD4EPTAeFw0xMzExMDgwNjU2MTdaFw0yMzExMDgwNjU2MTdaMIGBMREwDwYDVQQHEwgxMjEyMTIxMjElMCMGCSqGSIb3DQEJARYWYS5ncmF0aWpAbmV0dm94bGFiLmNvbTEMMAoGA1UEChMDTlZYMTcwNQYDVQQDHi4EEwRABDAEQgQ4BDkAIAQdBDgEOgQ+BDsEMAQ1BDIEOARHACAEEAQ9BEIEPgQ9MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZVcsdJvr7lZg3AiOoxytMTxT/AzUfaxwsW7FJzguNfL0n9st+kSCoOhgHOFOqRJpfPkka2o/DA4R2tZCpCBoXBUvO3OGWUhncgowV0sFnzU7deTOerbHvl8qjwifYPACeanMn/ScTHitbD4OxfUBhUfOAzCZarmw/BsjFK5y89wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH6cZaNPoFwTQMpUeBbhQaUE5iknjZ/PT6951aCkLR3fTTI/ZQPrkyz4jzx++78iEBvIZO7Tu7XKWlaOcOwZz947KrCY7rb4TEOmzq6qIObLIIwTVDqAf9yion/vEEY/NIb60aQ3YQoCZS0IBw7aZtOjD3ZLzt3uTsJBpRM8Hpjz",
+    "RecId": "74053DA156826E338C826AD88D38A74DD60CEF82",
+    "UserName": "Гратий Николаевич Антон",
+    "Email": "a.gratij@netvoxlab.com",
+    "Organisation": "NVX",
+    "ContactInfo": "12121212"
+  },
+  "CreatedAt": "2013-11-19T17:34:42.461076+04:00",
+  "Modifications": [
+    {
+      "Modifications": [
+        {
+          "Data": {
+            "Nvx.ReDoc.Modules.Api.ModificationTypes.Attributes.TaskAssignedAttribute, Nvx.ReDoc.Modules.Api": {
+              "Property": "TaskAssigned",
+              "TaskName": "Задача",
+              "PropertyCaption": "Исполнитель задачи",
+              "From": {
+                "Role": 0,
+                "CertificateRawData": "MIIChzCCAfCgAwIBAgIQJ+Ty2WYP8L9PtVZh/RyAzjANBgkqhkiG9w0BAQUFADCBgTERMA8GA1UEBxMIMTIxMjEyMTIxJTAjBgkqhkiG9w0BCQEWFmEuZ3JhdGlqQG5ldHZveGxhYi5jb20xDDAKBgNVBAoTA05WWDE3MDUGA1UEAx4uBBMEQAQwBEIEOAQ5ACAEHQQ4BDoEPgQ7BDAENQQyBDgERwAgBBAEPQRCBD4EPTAeFw0xMzExMDgwNjU2MTdaFw0yMzExMDgwNjU2MTdaMIGBMREwDwYDVQQHEwgxMjEyMTIxMjElMCMGCSqGSIb3DQEJARYWYS5ncmF0aWpAbmV0dm94bGFiLmNvbTEMMAoGA1UEChMDTlZYMTcwNQYDVQQDHi4EEwRABDAEQgQ4BDkAIAQdBDgEOgQ+BDsEMAQ1BDIEOARHACAEEAQ9BEIEPgQ9MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZVcsdJvr7lZg3AiOoxytMTxT/AzUfaxwsW7FJzguNfL0n9st+kSCoOhgHOFOqRJpfPkka2o/DA4R2tZCpCBoXBUvO3OGWUhncgowV0sFnzU7deTOerbHvl8qjwifYPACeanMn/ScTHitbD4OxfUBhUfOAzCZarmw/BsjFK5y89wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH6cZaNPoFwTQMpUeBbhQaUE5iknjZ/PT6951aCkLR3fTTI/ZQPrkyz4jzx++78iEBvIZO7Tu7XKWlaOcOwZz947KrCY7rb4TEOmzq6qIObLIIwTVDqAf9yion/vEEY/NIb60aQ3YQoCZS0IBw7aZtOjD3ZLzt3uTsJBpRM8Hpjz",
+                "RecId": "74053DA156826E338C826AD88D38A74DD60CEF82",
+                "UserName": "Гратий Николаевич Антон",
+                "Email": "a.gratij@netvoxlab.com",
+                "Organisation": "NVX",
+                "ContactInfo": "12121212"
+              },
+              "To": {
+                "Role": 0,
+                "CertificateRawData": "MIICYTCCAcqgAwIBAgIQH/dT2sCdfYdHcqUmZNlFGTANBgkqhkiG9w0BAQUFADBvMQowCAYDVQQHEwEtMS0wKwYJKoZIhvcNAQkBFh5hLmhhZHpoaW11c3RhZm92QG5ldHZveGxhYi5jb20xEjAQBgNVBAoTCU5ldFZveExhYjEeMBwGA1UEAxMVQWxleGVqIEhhZHpoaW11c3RhZm92MB4XDTEzMDgyNjExMzAxMFoXDTIzMDgyNjExMzAxMFowbzEKMAgGA1UEBxMBLTEtMCsGCSqGSIb3DQEJARYeYS5oYWR6aGltdXN0YWZvdkBuZXR2b3hsYWIuY29tMRIwEAYDVQQKEwlOZXRWb3hMYWIxHjAcBgNVBAMTFUFsZXhlaiBIYWR6aGltdXN0YWZvdjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwI9AOGvz5/UBPcX0a7nO6tW8aewZpnaClBQatFinRfWxHkce5vB4VVMF5WZN0m0t9a+VKgGBXNbEKvqcypV+LAyXJHtUBWp2ndeIbHNUruKFKFRGF/DqVbTTz2rkYwxQ6m3dSJ38gKXcXOm+4KVJIUWGrga9XZZJj2XgK4vkRP8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQCSSSY19KmAQ/+Q9dI3jCWwvT8Agoc054XouYsJpqp5JWokof890jGG7gF3opJgVtS+tN+r32mFnSYKqwkl16TLP7v1fbPk2Y3znPzKDhFwL7PlqZC27D8C5kbGWqVAgmdU1kSiQGUl3Sm/vC8ys4FXIe/Api6VbIC4jD87seLlhQ==",
+                "RecId": "3B3043BFF0F59B4107A84CBBC15E7DF9CC7CC449",
+                "UserName": "Alexej Hadzhimustafov",
+                "Email": "a.hadzhimustafov@netvoxlab.com",
+                "Organisation": "NetVoxLab",
+                "ContactInfo": "-"
+              }
+            }
+          },
+          "DefaultText": null,
+          "TypeId": "Nvx.ReDoc.Modules.Api.ModificationTypes.TaskAssigned"
+        }
+      ],
+      "DefaultText": null,
+      "FullRecId": "Component\\b77e3189-2f55-4eec-aa98-b6aa7b439625",
+      "Title": "Component\\b77e3189-2f55-4eec-aa98-b6aa7b439625",
+      "HasModifications": true
+    }
+  ]
+}
