@@ -24,7 +24,7 @@
         "Organisation": "NVX",
         "ContactInfo": "12121212"
       },
-      "Comment": null,
+      "Comment": "1",
       "Name": "Задача",
       "StartDate": "2013-11-19T17:04:30.5539034+04:00",
       "State": {
@@ -33,7 +33,7 @@
         "Description": "Открыта",
         "Characteristic": 0
       },
-      "StateComment": null,
+      "StateComment": "1",
       "Description": ""
     }
   }
