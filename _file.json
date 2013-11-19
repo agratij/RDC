@@ -1,0 +1,110 @@
+{
+  "CreatedAt": "2013-11-19T16:36:48.8507497+04:00",
+  "Attributes": {
+    "Nvx.ReDoc.MfcDataModel.Model.Customers.CustomerBase, Nvx.ReDoc.MfcDataModel": {
+      "inherit": true,
+      "values": [
+        {
+          "Nvx.ReDoc.MfcDataModel.Model.Customers.CustomerPhysical, Nvx.ReDoc.MfcDataModel": {
+            "Name": {
+              "First": "bbbbbbbbbbbb",
+              "Last": "333333333333",
+              "Middle": "bbbbbbbbbbbbb"
+            },
+            "Snils": "111-111-111 11",
+            "Inn": "111111111111",
+            "BirthDate": "2013-11-18T17:40:32.3322977+04:00",
+            "Gender": 1,
+            "RegistrationAddress": {
+              "City": "1111111111",
+              "Flat": "11111111111",
+              "House": "111",
+              "Housing": "1111111",
+              "Index": "111111",
+              "Region": "1111111",
+              "State": "111111111",
+              "Street": "111111111111",
+              "Structure": "111111"
+            },
+            "FacticalAddress": {
+              "City": null,
+              "Flat": null,
+              "House": null,
+              "Housing": null,
+              "Index": null,
+              "Region": null,
+              "State": null,
+              "Street": null,
+              "Structure": null
+            },
+            "RegistrationAddressMatchFactical": true,
+            "Passport": {
+              "IssueDate": "2013-11-18T17:40:32.3322977+04:00",
+              "IssuedBy": "1111111111",
+              "Number": "111111",
+              "Series": "1111"
+            },
+            "Contacts": {
+              "Phone1": null,
+              "Phone2": null,
+              "Phone3": null,
+              "EMail": null
+            },
+            "CustomerType": 1,
+            "id": "303e099f-7db5-4d2c-8ad1-cedfab1d2392"
+          }
+        }
+      ]
+    },
+    "Nvx.ReDoc.MfcDataModel.Model.Services.FileInfo, Nvx.ReDoc.MfcDataModel": {
+      "inherit": true,
+      "values": [
+        {
+          "Nvx.ReDoc.MfcDataModel.Model.Services.FileInfo, Nvx.ReDoc.MfcDataModel": {
+            "fileName": "Копия документа, удостоверяющего личность заявителя (заявителей), являющегося физическим лицом, либо личность представителя физического или юридического лица",
+            "fileDescription": "",
+            "fileRequired": true
+          }
+        },
+        {
+          "Nvx.ReDoc.MfcDataModel.Model.Services.FileInfo, Nvx.ReDoc.MfcDataModel": {
+            "fileName": "Кадастровый паспорт земельного участка",
+            "fileDescription": "Запрашивается в порядке межведомственного взаимодействия",
+            "fileRequired": false
+          }
+        },
+        {
+          "Nvx.ReDoc.MfcDataModel.Model.Services.FileInfo, Nvx.ReDoc.MfcDataModel": {
+            "fileName": "Выписка из Единого государственного реестра прав на недвижимое имущество и сделок с ним на земельный участок",
+            "fileDescription": "Запрашивается в порядке межведомственного взаимодействия",
+            "fileRequired": false
+          }
+        }
+      ]
+    },
+    "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib": {
+      "inherit": true,
+      "values": [
+        {
+          "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib": {
+            "К какому типу заявителей Вы относитесь?": "Гражданин РФ (ФЛ)",
+            "Являетесь ли Вы представителем заявителя?": "Нет, не являюсь"
+          }
+        }
+      ]
+    }
+  },
+  "CreatedBy": {
+    "Role": 0,
+    "CertificateRawData": "MIIChzCCAfCgAwIBAgIQJ+Ty2WYP8L9PtVZh/RyAzjANBgkqhkiG9w0BAQUFADCBgTERMA8GA1UEBxMIMTIxMjEyMTIxJTAjBgkqhkiG9w0BCQEWFmEuZ3JhdGlqQG5ldHZveGxhYi5jb20xDDAKBgNVBAoTA05WWDE3MDUGA1UEAx4uBBMEQAQwBEIEOAQ5ACAEHQQ4BDoEPgQ7BDAENQQyBDgERwAgBBAEPQRCBD4EPTAeFw0xMzExMDgwNjU2MTdaFw0yMzExMDgwNjU2MTdaMIGBMREwDwYDVQQHEwgxMjEyMTIxMjElMCMGCSqGSIb3DQEJARYWYS5ncmF0aWpAbmV0dm94bGFiLmNvbTEMMAoGA1UEChMDTlZYMTcwNQYDVQQDHi4EEwRABDAEQgQ4BDkAIAQdBDgEOgQ+BDsEMAQ1BDIEOARHACAEEAQ9BEIEPgQ9MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZVcsdJvr7lZg3AiOoxytMTxT/AzUfaxwsW7FJzguNfL0n9st+kSCoOhgHOFOqRJpfPkka2o/DA4R2tZCpCBoXBUvO3OGWUhncgowV0sFnzU7deTOerbHvl8qjwifYPACeanMn/ScTHitbD4OxfUBhUfOAzCZarmw/BsjFK5y89wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH6cZaNPoFwTQMpUeBbhQaUE5iknjZ/PT6951aCkLR3fTTI/ZQPrkyz4jzx++78iEBvIZO7Tu7XKWlaOcOwZz947KrCY7rb4TEOmzq6qIObLIIwTVDqAf9yion/vEEY/NIb60aQ3YQoCZS0IBw7aZtOjD3ZLzt3uTsJBpRM8Hpjz",
+    "RecId": "74053DA156826E338C826AD88D38A74DD60CEF82",
+    "UserName": "Гратий Николаевич Антон",
+    "Email": "a.gratij@netvoxlab.com",
+    "Organisation": "NVX",
+    "ContactInfo": "12121212"
+  },
+  "DueDateTime": "2013-11-22T01:06:49.0497696+04:00",
+  "Identificator": "",
+  "IsArchived": false,
+  "Title": "333333333333 bbbbbbbbbbbb bbbbbbbbbbbbb - Предоставление земельных участков для целей не связанных со строительством городского округа"
+}

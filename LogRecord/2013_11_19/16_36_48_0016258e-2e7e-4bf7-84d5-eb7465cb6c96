@@ -1,0 +1,43 @@
+{
+  "RecId": "2013_11_19\\16_36_48_0016258e-2e7e-4bf7-84d5-eb7465cb6c96",
+  "FileId": null,
+  "CreateDate": "2013-11-19T12:36:48.8507497Z",
+  "Author": {
+    "Role": 0,
+    "CertificateRawData": "MIIChzCCAfCgAwIBAgIQJ+Ty2WYP8L9PtVZh/RyAzjANBgkqhkiG9w0BAQUFADCBgTERMA8GA1UEBxMIMTIxMjEyMTIxJTAjBgkqhkiG9w0BCQEWFmEuZ3JhdGlqQG5ldHZveGxhYi5jb20xDDAKBgNVBAoTA05WWDE3MDUGA1UEAx4uBBMEQAQwBEIEOAQ5ACAEHQQ4BDoEPgQ7BDAENQQyBDgERwAgBBAEPQRCBD4EPTAeFw0xMzExMDgwNjU2MTdaFw0yMzExMDgwNjU2MTdaMIGBMREwDwYDVQQHEwgxMjEyMTIxMjElMCMGCSqGSIb3DQEJARYWYS5ncmF0aWpAbmV0dm94bGFiLmNvbTEMMAoGA1UEChMDTlZYMTcwNQYDVQQDHi4EEwRABDAEQgQ4BDkAIAQdBDgEOgQ+BDsEMAQ1BDIEOARHACAEEAQ9BEIEPgQ9MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZVcsdJvr7lZg3AiOoxytMTxT/AzUfaxwsW7FJzguNfL0n9st+kSCoOhgHOFOqRJpfPkka2o/DA4R2tZCpCBoXBUvO3OGWUhncgowV0sFnzU7deTOerbHvl8qjwifYPACeanMn/ScTHitbD4OxfUBhUfOAzCZarmw/BsjFK5y89wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH6cZaNPoFwTQMpUeBbhQaUE5iknjZ/PT6951aCkLR3fTTI/ZQPrkyz4jzx++78iEBvIZO7Tu7XKWlaOcOwZz947KrCY7rb4TEOmzq6qIObLIIwTVDqAf9yion/vEEY/NIb60aQ3YQoCZS0IBw7aZtOjD3ZLzt3uTsJBpRM8Hpjz",
+    "RecId": "74053DA156826E338C826AD88D38A74DD60CEF82",
+    "UserName": "Гратий Николаевич Антон",
+    "Email": "a.gratij@netvoxlab.com",
+    "Organisation": "NVX",
+    "ContactInfo": "12121212"
+  },
+  "CreatedAt": "2013-11-19T16:36:48.8507497+04:00",
+  "Modifications": [
+    {
+      "Modifications": [
+        {
+          "Data": {
+            "Nvx.ReDoc.Modules.Api.ModificationTypes.Attributes.CreatedFileAttribute, Nvx.ReDoc.Modules.Api": {
+              "Title": "333333333333 bbbbbbbbbbbb bbbbbbbbbbbbb - Предоставление земельных участков для целей не связанных со строительством городского округа"
+            }
+          },
+          "DefaultText": null,
+          "TypeId": "Nvx.ReDoc.Modules.Api.ModificationTypes.FileCreated"
+        },
+        {
+          "Data": {
+            "Nvx.ReDoc.Modules.Api.ModificationTypes.Attributes.CreatedTaskAttribute, Nvx.ReDoc.Modules.Api": {
+              "Title": "Подготовить заявление"
+            }
+          },
+          "DefaultText": null,
+          "TypeId": "Nvx.ReDoc.Modules.Api.ModificationTypes.TaskCreated"
+        }
+      ],
+      "DefaultText": null,
+      "FullRecId": "",
+      "Title": "",
+      "HasModifications": true
+    }
+  ]
+}
