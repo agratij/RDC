@@ -1,0 +1,36 @@
+{
+  "RecId": "2013_11_19\\16_37_31_e027d2d9-c127-4e1b-b220-78f5e6282d0c",
+  "FileId": "28e25665-047d-48de-bd28-c503749a0204",
+  "CreateDate": "2013-11-19T12:37:31.7600402Z",
+  "Author": {
+    "Role": 0,
+    "CertificateRawData": "MIIChzCCAfCgAwIBAgIQJ+Ty2WYP8L9PtVZh/RyAzjANBgkqhkiG9w0BAQUFADCBgTERMA8GA1UEBxMIMTIxMjEyMTIxJTAjBgkqhkiG9w0BCQEWFmEuZ3JhdGlqQG5ldHZveGxhYi5jb20xDDAKBgNVBAoTA05WWDE3MDUGA1UEAx4uBBMEQAQwBEIEOAQ5ACAEHQQ4BDoEPgQ7BDAENQQyBDgERwAgBBAEPQRCBD4EPTAeFw0xMzExMDgwNjU2MTdaFw0yMzExMDgwNjU2MTdaMIGBMREwDwYDVQQHEwgxMjEyMTIxMjElMCMGCSqGSIb3DQEJARYWYS5ncmF0aWpAbmV0dm94bGFiLmNvbTEMMAoGA1UEChMDTlZYMTcwNQYDVQQDHi4EEwRABDAEQgQ4BDkAIAQdBDgEOgQ+BDsEMAQ1BDIEOARHACAEEAQ9BEIEPgQ9MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZVcsdJvr7lZg3AiOoxytMTxT/AzUfaxwsW7FJzguNfL0n9st+kSCoOhgHOFOqRJpfPkka2o/DA4R2tZCpCBoXBUvO3OGWUhncgowV0sFnzU7deTOerbHvl8qjwifYPACeanMn/ScTHitbD4OxfUBhUfOAzCZarmw/BsjFK5y89wIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAH6cZaNPoFwTQMpUeBbhQaUE5iknjZ/PT6951aCkLR3fTTI/ZQPrkyz4jzx++78iEBvIZO7Tu7XKWlaOcOwZz947KrCY7rb4TEOmzq6qIObLIIwTVDqAf9yion/vEEY/NIb60aQ3YQoCZS0IBw7aZtOjD3ZLzt3uTsJBpRM8Hpjz",
+    "RecId": "74053DA156826E338C826AD88D38A74DD60CEF82",
+    "UserName": "Гратий Николаевич Антон",
+    "Email": "a.gratij@netvoxlab.com",
+    "Organisation": "NVX",
+    "ContactInfo": "12121212"
+  },
+  "CreatedAt": "2013-11-19T16:37:31.7600402+04:00",
+  "Modifications": [
+    {
+      "Modifications": [
+        {
+          "Data": {
+            "Nvx.ReDoc.Modules.Api.ModificationTypes.Attributes.ParticipantModifyAttribute, Nvx.ReDoc.Modules.Api": {
+              "FileTitle": "333333333333 bbbbbbbbbbbb bbbbbbbbbbbbb - Предоставление земельных участков для целей не связанных со строительством городского округа",
+              "UserId": "3B3043BFF0F59B4107A84CBBC15E7DF9CC7CC449",
+              "UserName": "Alexej Hadzhimustafov"
+            }
+          },
+          "DefaultText": null,
+          "TypeId": "Nvx.ReDoc.Modules.Api.ModificationTypes.AddParticipantModified"
+        }
+      ],
+      "DefaultText": null,
+      "FullRecId": "",
+      "Title": "",
+      "HasModifications": true
+    }
+  ]
+}
